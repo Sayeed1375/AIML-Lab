@@ -18,6 +18,6 @@ LAB-O9:[IMPLEMENT RANDOM FORESTNENSABLE MODEL USING LEADING DATA]{}
 
 
 
-Lab 09: [Implement Random Forest Ensemble Classifier using Lending Club Data]{}
+
 Lab 10: [Implement K-Means Clustering using Iris Data]{}
 
