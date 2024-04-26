@@ -19,5 +19,5 @@ LAB-O9:[IMPLEMENT RANDOM FORESTNENSABLE MODEL USING LEADING DATA]{}
 
 
 
-Lab 10: [Implement K-Means Clustering using Iris Data]{}
+Lab 10: [Implement K-Means Clustering using Iris Data]{https://github.com/Sayeed1375/AIML-Lab/blob/main/lab_10_ipynb.ipynb}
 
